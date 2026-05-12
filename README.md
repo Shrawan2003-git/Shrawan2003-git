@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">rjerkj
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:7c3aed&text=Shrawan%20Gautam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Cloud%20Learner&descAlignY=58&descColor=d1d5db"/>
 
@@ -12,10 +12,10 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 MCA/BCA Student passionate about building scalable and intelligent web applications.
+🎓 MCA Student passionate about building scalable and intelligent web applications.
 
 🚀 Currently working on:
-- 🗺️ Interactive College Campus Navigation Map
+- 🗺️ College Event-Management-System
 - 🌐 MERN Stack Applications
 - ☁️ AWS Cloud Deployment
 - 🤖 AI-integrated Web Solutions
