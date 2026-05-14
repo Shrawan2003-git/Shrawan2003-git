@@ -10,9 +10,9 @@
 
 ![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f3e8ff?style=flat-square&logo=linkedin&logoColor=7c3aed)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f3e8ff?style=flat-square&logo=linkedin&logoColor=7c3aed)](https://www.linkedin.com/in/shrawan-gautam-070429247/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-dbeafe?style=flat-square&logo=gmail&logoColor=2563eb)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-dbeafe?style=flat-square&logo=gmail&logoColor=2563eb)](mailto:shrawangautam01112003@gmail.com)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-fef9c3?style=flat-square&logo=instagram&logoColor=854d0e)](YOUR_INSTAGRAM_URL)
 &nbsp;
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌸 About Me
+##  About Me
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -175,7 +175,7 @@ interests:
 
 ---
 
-## 🌸 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -197,10 +197,10 @@ interests:
 
 <br/><br/>
 
-> *"Building smart systems with modern technologies."* 🌸
+> *"Building smart systems with modern technologies."* 
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=c4b5fd&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?usernameShrawan2003-git&style=flat-square&color=c4b5fd&label=profile+views)
 
 </div>
