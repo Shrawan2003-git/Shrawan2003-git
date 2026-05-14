@@ -179,7 +179,7 @@ interests:
 
 <div align="center">
 
-<a href="www.linkedin.com/in/shrawan-gautam-070429247">
+<a href="https://www.linkedin.com/in/shrawan-gautam-070429247/">
   <img src="https://img.shields.io/badge/LinkedIn-f3e8ff?style=for-the-badge&logo=linkedin&logoColor=6d28d9"/>
 </a>
 &nbsp;
